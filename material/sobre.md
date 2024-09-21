@@ -18,13 +18,16 @@
 | 26/08 | Atv03-funcoes | Github | 01/09 23h59 |
 | 02/09 | Lab01-hackerlab  | Github | 25/09 23h59 |
 | 02/09 | Atv04-condicionais-funcoes | Github | 08/09 23h59 |
-
+| 09/09 | Atv05-loops | Github | 13/09 23h59 |
+| 10/09 | Atv06-variaveis-locais | Github | 16/09 23h59 |
+| 16/09 | Atv07-arrays | Github | 20/09 23h59 |
+| 19/09 | Atv08-malloc | Github | 26/09 23h59 |
 
 
 # Provas
 
 - **Multirão C**: final da primeira semana
-- **AI**: semana da AI
+- **AI**: 30/09 segunda-feira das 13:30 às 16:30 - laboratório Ágil II
 - **AF**:  semana da AF
 - **SUB**: semana da SUB
 

@@ -22,12 +22,17 @@
 | 10/09 | Atv06-variaveis-locais | Github | 16/09 23h59 |
 | 16/09 | Atv07-arrays | Github | 23/09 23h59 |
 | 19/09 | Atv08-malloc | Github | 26/09 23h59 |
-
+| 07/10 | Atv09-TAD  | Github | 11/10 23h59 |
+| 10/10 | Atv10-processos | Github | 20/10 23h59 |
+| 14/10 | Atv11-exec | Github | 21/10 23h59 |
+| 17/10 | Atv12-entrada-saida | Github | 25/10 23h59 |
+| 21/10 | Lab02-processos | Github | 08/11  23h59 |
+| 04/11 | Lab03-threads | Github | 24/11  23h59 |
 
 # Provas
 
 - **Multirão C**: final da primeira semana
 - **AI**: 30/09 segunda-feira das 13:30 às 16:30 - laboratório Ágil II
-- **AF**:  semana da AF
+- **AF**: 25/11 segunda-feira das 13:30 às 16:30 - laboratório Ágil II
 - **SUB**: semana da SUB
 
